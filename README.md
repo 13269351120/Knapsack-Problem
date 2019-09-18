@@ -1,5 +1,6 @@
 # Knapsack-Problem
-Knapsack Problem Conclusion
+
+个人对背包九讲的学习和总结。  
 
 ### 背包问题
 - 01背包
